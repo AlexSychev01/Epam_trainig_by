@@ -11,22 +11,3 @@ public class Programm {
     }
 
 }
-//    public static int readInt(String msg) {
-//        System.out.println(msg);
-//    }
-//
-//    public static int readInt(String msg, String err) {
-//        System.out.println(msg);
-//    }
-//
-//    public static boolean isValid(int number) {
-//
-//    }
-//
-//    public static boolean task1(int numerator) {
-//
-//    }
-//
-//    public static void print(boolean result) {
-//
-
