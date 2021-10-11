@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Numbers {
+public class Number {
 
     Scanner scanner = new Scanner(System.in);
     String enterTheNumber = "Введите число: ";
